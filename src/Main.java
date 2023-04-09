@@ -8,6 +8,7 @@ public class Main {
         System.out.print("Enter b: ");
         int b = scn.nextInt();
         System.out.println(a+b);
+        System.out.println("test");
 
         //red color - not versioned files (не отслеживаемые)
         //green color - versioned files (отслеживаемые)
